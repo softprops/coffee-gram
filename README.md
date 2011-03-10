@@ -2,7 +2,7 @@
 
 simple [coffee script](http://jashkenas.github.com/coffee-script/) interface into the instagram [api](http://instagram.com/developer/)
 
-Mostly a work in progress `I finish it this weekend`
+Mostly a work in progress `I will finish it this weekend`
 
 ## usage
 
